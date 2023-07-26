@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LockNLoad:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/LockNLoad_jar</output-path>
-    <root id="archive" name="LockNLoad.jar">
-      <element id="module-output" name="LockNLoad" />
-    </root>
-  </artifact>
-</component>
